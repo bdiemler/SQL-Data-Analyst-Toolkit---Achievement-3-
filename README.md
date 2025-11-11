@@ -2,10 +2,11 @@
 A practical portfolio of SQL queries demonstrating data structure, complex filtering, subqueries, and CTEs for business analysis.
 
 Project Overview:
+
 Rockbuster Stealth LLC, a legacy global movie rental company, is undergoing a critical transition in response to intense competition from streaming giants like Netflix and Amazon Prime. To remain competitive, the management team is launching a new online video rental service leveraging its existing movie licenses.
 This project was executed to provide the Rockbuster Stealth Management Board with data-driven insights essential for formulating their 2020 launch strategy.
 
-Role and Technology
+Role and Technology:
 
 As a Data Analyst within the Business Intelligence (BI) department, my primary responsibilities included ingesting Rockbuster’s operational data and performing detailed analyses to answer key business questions.
 Technologies Used:
@@ -13,7 +14,8 @@ Technologies Used:
 - Query Language: SQL (Structured Query Language)
 - Analysis/Visualization: Data storytelling and visualization (e.g., in presentation software or BI tools like Tableau/Power BI, depending on the final deliverable).
 
-Business Objectives and Key Questions
+Business Objectives and Key Questions:
+
 The management board requires concrete, data-supported answers to inform crucial decisions regarding inventory, geographic focus, and customer strategy.
 The analysis is focused on answering the following key questions based on historical rental data:
 - Which movies contributed the most/least to revenue gain?
@@ -22,7 +24,8 @@ The analysis is focused on answering the following key questions based on histor
 - Where are customers with a high lifetime value based (premium customer location)?
 - Do sales figures vary significantly between geographic regions?
 
-Data Set and Methodology
+Data Set and Methodology:
+
 The project utilizes a relational dataset containing approximately 3MB of historical transaction, inventory, and customer data from Rockbuster's legacy operations.
 Data Schema Highlights: The dataset includes tables detailing:
 - Film inventory and specifications.
