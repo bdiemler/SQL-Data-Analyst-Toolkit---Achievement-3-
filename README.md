@@ -1,7 +1,7 @@
 # SQL-Data-Analyst-Toolkit--Achievement-3-
 A practical portfolio of SQL queries demonstrating data structure, complex filtering, subqueries, and CTEs for business analysis.
 
-Project Overview
+Project Overview:
 Rockbuster Stealth LLC, a legacy global movie rental company, is undergoing a critical transition in response to intense competition from streaming giants like Netflix and Amazon Prime. To remain competitive, the management team is launching a new online video rental service leveraging its existing movie licenses.
 This project was executed to provide the Rockbuster Stealth Management Board with data-driven insights essential for formulating their 2020 launch strategy.
 
